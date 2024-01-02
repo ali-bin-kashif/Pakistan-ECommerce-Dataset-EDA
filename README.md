@@ -11,7 +11,7 @@ A group of entrepreuners want to start a new E-Commerce business in Pakistan. Th
 
 ## Tasks Performed
 - ### Data loading and identification:
-    Loaded the dataset and viewed it i.e it's colums and rows, checking out samples of different rows, looking for columns data type.
+    Loaded the dataset and viewed it i.e it's colums and rows, checked out samples of different rows, looked for columns data type.
 
 - ### Data cleaning:
     Handled missing and anomalous data, checked for outliers.
